@@ -33,6 +33,7 @@ Url:            http://www.blinux.fr
 BuildRequires:  patterns
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 BuildArch:      noarch
+Vendor:		Blinux
 
 Requires:	patterns-BLINUX
 Requires:	patterns-BLINUX-epitech-std

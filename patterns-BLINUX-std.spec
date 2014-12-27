@@ -25,7 +25,7 @@
 
 Name:           patterns-BLINUX-std
 Version:        2.0
-Release:        1
+Release:        2
 Summary:        Meta package for pattern STD
 Group:          Metapackages
 License:        BSD-2-Clause

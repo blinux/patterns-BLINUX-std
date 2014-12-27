@@ -25,7 +25,7 @@
 
 Name:           patterns-BLINUX-std
 Version:        2.0
-Release:        2
+Release:        3
 Summary:        Meta package for pattern STD
 Group:          Metapackages
 License:        BSD-2-Clause
@@ -33,8 +33,7 @@ Url:            http://www.blinux.fr
 BuildRequires:  patterns
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 BuildArch:      noarch
-
-Provides:       patterns-BLINUX-std
+Vendor:		Blinux
 
 Requires:	patterns-BLINUX
 Requires:	patterns-BLINUX-epitech-std

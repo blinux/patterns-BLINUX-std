@@ -152,6 +152,7 @@ Requires:	xfwm4-branding-upstream
 Requires:	xfwm4-lang
 Requires:	xfwm4-themes
 Requires:	hplip
+Requires:	salt-BLINUX
 
 %description
 This is a meta-package for the needs in BLINUX STD

@@ -24,8 +24,8 @@
 # POSSIBILITY OF SUCH DAMAGE.
 
 Name:           patterns-BLINUX-std
-Version:        2.0
-Release:        4
+Version:        3.0
+Release:        0
 Summary:        Meta package for pattern STD
 Group:          Metapackages
 License:        BSD-2-Clause

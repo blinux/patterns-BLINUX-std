@@ -25,7 +25,7 @@
 
 Name:           patterns-BLINUX-std
 Version:        2.0
-Release:        1
+Release:        4
 Summary:        Meta package for pattern STD
 Group:          Metapackages
 License:        BSD-2-Clause
@@ -33,6 +33,7 @@ Url:            http://www.blinux.fr
 BuildRequires:  patterns
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 BuildArch:      noarch
+Vendor:		Blinux
 
 Provides:       patterns-BLINUX-std
 
@@ -152,6 +153,7 @@ Requires:	xfwm4-branding-upstream
 Requires:	xfwm4-lang
 Requires:	xfwm4-themes
 Requires:	hplip
+Requires:	salt-BLINUX
 
 %description
 This is a meta-package for the needs in BLINUX STD

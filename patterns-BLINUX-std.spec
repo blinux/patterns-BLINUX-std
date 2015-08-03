@@ -34,8 +34,6 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 BuildArch:      noarch
 Vendor:		Blinux
 
-Provides:       patterns-BLINUX-std
-
 Requires:	patterns-BLINUX
 Requires:	patterns-BLINUX-epitech-std
 
@@ -65,9 +63,6 @@ Requires:	xfce4-panel-plugin-battery-lang
 Requires:	xfce4-panel-plugin-brightness
 Requires:	xfce4-panel-plugin-cellmodem
 Requires:	xfce4-panel-plugin-cellmodem-lang
-Requires:	xfce4-panel-plugin-clipman
-Requires:	xfce4-panel-plugin-clipman-doc
-Requires:	xfce4-panel-plugin-clipman-lang
 Requires:	xfce4-panel-plugin-cpufreq
 Requires:	xfce4-panel-plugin-cpufreq-lang
 Requires:	xfce4-panel-plugin-cpugraph

@@ -30,7 +30,6 @@ Summary:        Meta package for pattern STD
 Group:          Metapackages
 License:        BSD-2-Clause
 Url:            http://www.blinux.fr
-BuildRequires:  patterns
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 BuildArch:      noarch
 Vendor:		Blinux

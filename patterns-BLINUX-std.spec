@@ -1,5 +1,5 @@
 #-
-# Copyright 2014 Emmanuel Vadot <elbarto@bocal.org>
+# Copyright 2014-2015 Emmanuel Vadot <elbarto@bocal.org>
 # All rights reserved
 #
 # Redistribution and use in source and binary forms, with or without
@@ -25,7 +25,7 @@
 
 Name:           patterns-BLINUX-std
 Version:        3.0
-Release:        0
+Release:        1
 Summary:        Meta package for pattern STD
 Group:          Metapackages
 License:        BSD-2-Clause
@@ -148,6 +148,7 @@ Requires:	xfwm4-lang
 Requires:	xfwm4-themes
 Requires:	hplip
 Requires:	salt-BLINUX
+Requires:	awesome
 
 %description
 This is a meta-package for the needs in BLINUX STD
